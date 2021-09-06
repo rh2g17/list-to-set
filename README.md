@@ -9,3 +9,5 @@ go main.go <your_input_file.txt>
 outputs a file called output.txt.
 
 Expected input is a text file with one item per line, no quotation.
+
+There is an example text file, ./example/input.txt
